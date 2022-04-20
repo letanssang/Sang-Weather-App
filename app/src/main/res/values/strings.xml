@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sang Weather App</string>
+    <string name="enter_city_name_here">Enter city name here</string>
+    <string name="city_name">City Name</string>
+    <string name="_69">69</string>
+    <string name="example">example</string>
+    <string name="date">date</string>
+    <string name="humidity">humidity</string>
+    <string name="pressure">pressure</string>
+    <string name="check">Check</string>
+</resources>
